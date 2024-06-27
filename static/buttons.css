@@ -1,0 +1,41 @@
+body {
+    background-color: #f2f2f2;
+    width:100%;
+}
+
+.uber{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 110px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 30px;
+    width: 240px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 2.5px;
+}
+
+.linkedin_save{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    height: 30px;
+    width: 80px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+}
